@@ -1,0 +1,13 @@
+# 运行期产物（安装状态、日志）不提交
+install-state.json
+*.log
+*.log.old
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统
+Thumbs.db
+desktop.ini
